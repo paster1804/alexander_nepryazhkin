@@ -1,5 +1,4 @@
 # alexander_nepryazhkin
-
 # Домашнее задание к занятию «Системы контроля версий»
 
  Local .terraform directories
